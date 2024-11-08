@@ -97,3 +97,16 @@ a{
     text-indent: 50px;
     text-align: justify;
 }
+
+h2{
+    text-decoration: underline;
+}
+
+.vastag{
+    font-weight: bold;
+}
+
+h4{
+font-style: italic;
+font-style: oblique;
+}
